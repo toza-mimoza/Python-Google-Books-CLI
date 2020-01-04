@@ -17,12 +17,23 @@ Prerequisites:
     - To install webbrowser package use: `pip install webbrowser`
   - chrome path in: > "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
   
-Clone or download the repository and run the googlebooks.py file using: `googlebooks.py search YOUR_BOOK_TITLE`
+Clone or download the repository and run the googlebooks.py file navigate to the folder where the  .py file is located and use: `googlebooks.py search YOUR_BOOK_TITLE`
 
 **Attention: if the book title has more than one word in it (most cases) type the title without white spaces.**
 
 As an example, the following will appear: 
 
+## Harry Potter Query in GB
+
+Searched using: `googlebooks.py search harrypotter`
+
 ![screenshot1](screenshot_googlebooks2.png)
 
 ![screenshot2](screenshot_googlebooks.png)
+
+## Wizard of Oz in the US
+
+Searched simply using: `googlebooks.py search oz`
+
+![screenshot3](screenshot_googlebooks3.png)
+
