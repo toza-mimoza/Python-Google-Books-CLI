@@ -1,5 +1,5 @@
 # Python-Google-Books-CLI
-This a Google Books API CLI program used to query the book by a given title or an id. It automatically opens the free listed books as Chrome tabs where the books can later be downloaded if they are in PDF. 
+This a Google Books API CLI program used to query the book by a given title or an id. It **automatically opens the free listed books as Chrome tabs** where the books can later be downloaded if they are in PDF or added to Google Books App. 
 
 Depending on your country, the results may vary.
 
@@ -22,3 +22,5 @@ Clone or download the repository and run the googlebooks.py file using: `googleb
 **Attention: if the book title has more than one word in it (most cases) type the title without white spaces.**
 
 As an example, the following will appear: 
+
+[screenshot](screenshot_googlebooks.png)
