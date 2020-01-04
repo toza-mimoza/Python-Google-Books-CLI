@@ -23,4 +23,6 @@ Clone or download the repository and run the googlebooks.py file using: `googleb
 
 As an example, the following will appear: 
 
-![screenshot](screenshot_googlebooks.png)
+![screenshot1](screenshot_googlebooks2.png)
+
+![screenshot2](screenshot_googlebooks.png)
