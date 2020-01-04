@@ -18,6 +18,7 @@ Prerequisites:
   - chrome path in: > "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
   
 Clone or download the repository and run the googlebooks.py file using: `googlebooks.py search YOUR_BOOK_TITLE`
+
 **Attention: if the book title has more than one word in it (most cases) type the title without white spaces.**
 
 As an example, the following will appear: 
